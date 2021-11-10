@@ -1,4 +1,4 @@
-module github.com/billcoding/redis-cli
+module github.com/billcoding/redis
 
 go 1.16
 
